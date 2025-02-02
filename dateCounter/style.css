@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.clock-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.date-box {
+  font-size: 20px;
+  font-weight: bold;
+  background: #333;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
